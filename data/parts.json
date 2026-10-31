@@ -1,0 +1,21 @@
+{
+ "parts": {
+  "30-ocr-01.json": {
+   "acts": [
+    "perda-2025-002-pembentukan-dan-susunan-perangkat-daerah",
+    "perda-2026-003-pangan-lokal",
+    "perda-2026-004-pengawasan-sosial",
+    "perda-2026-005-pengelolaan-dan-perlindungan-hutan",
+    "perda-2026-006-pertambangan-rakyat",
+    "perda-2026-008-administrasi-kependudukan",
+    "perda-2026-009-pemberdayaan-lembaga-pelopor-pendidikan-dan-lembaga-pendidikan-swasta",
+    "perda-2026-010-pengelolaan-danau",
+    "perda-2026-011-tugas-dan-wewenang-majelis-rakyat-papua",
+    "perda-2026-012-pengembangan-pembinaan-dan-pelindungan-bahasa-daerah-dan-sastra-daerah",
+    "perda-2026-013-peningkatan-dan-perbaikan-gizi-masyarakat"
+   ],
+   "sha256": "0591b12068420c11e36c7e21b0ac6b9c089bbd1bc9c2ac296f42b45a4eab06ea"
+  }
+ },
+ "schema": 1
+}
