@@ -1,0 +1,159 @@
+{
+ "country": "ID-PT",
+ "acts": [
+  {
+   "slug": "perda-2025-002-pembentukan-dan-susunan-perangkat-daerah",
+   "short": "Perda Central Papua 2/2025",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 2 Tahun 2025 tentang Pembentukan dan Susunan Perangkat Daerah",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=118",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 14,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2025pd3166002.pdf",
+     "sha256": "b06f040c5b75510998bafe6fb8abd6e5e82669d9a5e958e189f4f99880bdf98f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-003-pangan-lokal",
+   "short": "Perda Central Papua 3/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 3 Tahun 2026 tentang Pangan Lokal",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=20",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 48,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166003.pdf",
+     "sha256": "fefee34c3ac54d67eee543b7d894c183b017a587f1b387f430152d596c475edb"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-004-pengawasan-sosial",
+   "short": "Perda Central Papua 4/2026",
+   "title": "Peraturan Daerah Khusus Provinsi Papua Tengah Nomor 4 Tahun 2026 tentang Pengawasan Sosial",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=21",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 20,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166004.pdf",
+     "sha256": "c87f3297d0cb1f160fb44b3918e5525d596d26a62ee091907100732f5707a733"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-005-pengelolaan-dan-perlindungan-hutan",
+   "short": "Perda Central Papua 5/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 5 Tahun 2026 tentang Pengelolaan dan Perlindungan Hutan",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=22",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 26,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166005.pdf",
+     "sha256": "d26a5ee1d7e5d62833f42845d6f27ba6fea3d946e70c5bcb12a2fa71c3a1f43f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-006-pertambangan-rakyat",
+   "short": "Perda Central Papua 6/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 6 Tahun 2026 tentang Pertambangan Rakyat",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=23",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 31,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166006.pdf",
+     "sha256": "ecb7a0d27ae65eee007c50e2a19f01ed0fb4125e2fed68b9b9574100a9d29011"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-008-administrasi-kependudukan",
+   "short": "Perda Central Papua 8/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 8 Tahun 2026 tentang Administrasi Kependudukan",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=25",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 31,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166008.pdf",
+     "sha256": "2adb2f80f83278814ecfe136d64b004161f9f8952a7df52a94ea718077488f2e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-009-pemberdayaan-lembaga-pelopor-pendidikan-dan-lembaga-pendidikan-swasta",
+   "short": "Perda Central Papua 9/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 9 Tahun 2026 tentang Pemberdayaan Lembaga Pelopor Pendidikan dan Lembaga Pendidikan Swasta",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=26",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 25,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166009.pdf",
+     "sha256": "173241f3cff079af93bea6609c2e0964ed1dd96cd0435b3dbc69f18a4569be61"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-010-pengelolaan-danau",
+   "short": "Perda Central Papua 10/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 10 Tahun 2026 tentang Pengelolaan Danau",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=59",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 36,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166010.pdf",
+     "sha256": "914ee6e0d734311c0228419d6b28329ddf42ff03c1046f4737258ff8cd8c38bf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-011-tugas-dan-wewenang-majelis-rakyat-papua",
+   "short": "Perda Central Papua 11/2026",
+   "title": "Peraturan Daerah Khusus Provinsi Papua Tengah Nomor 11 Tahun 2026 tentang Tugas dan Wewenang Majelis Rakyat Papua",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=223",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 14,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166011.pdf",
+     "sha256": "409ab67fbbc4d763ef1f7b03637ce1d854be60b8a68ce510f5a264c50394ea0b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-012-pengembangan-pembinaan-dan-pelindungan-bahasa-daerah-dan-sastra-daerah",
+   "short": "Perda Central Papua 12/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 12 Tahun 2026 tentang Pengembangan, Pembinaan, dan Pelindungan Bahasa Daerah dan Sastra Daerah",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=60",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 37,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166012.pdf",
+     "sha256": "9ca0cfe82763665b27955bd7788c06ef787a919334972e9c6a2e61478934908d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-013-peningkatan-dan-perbaikan-gizi-masyarakat",
+   "short": "Perda Central Papua 13/2026",
+   "title": "Peraturan Daerah Provinsi Papua Tengah Nomor 13 Tahun 2026 tentang Peningkatan dan Perbaikan Gizi Masyarakat",
+   "url": "https://jdih.papuatengahprov.go.id/dokumen/view?id=224",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 33,
+     "source_url": "https://jdih.papuatengahprov.go.id/dokumen/download?id=2026pd3166013.pdf",
+     "sha256": "dfeb8f29cd51d84a2cbc48f63f2ec0d06a80e1efe6b37109e8bfa0d71e2fa6ab"
+    }
+   ]
+  }
+ ]
+}

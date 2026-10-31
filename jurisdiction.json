@@ -1,0 +1,8 @@
+{
+  "path": "id-pt",
+  "code": "ID-PT",
+  "name": "Central Papua (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-central-papua-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Papua Tengah as enacted, Indonesian text, from JDIH Provinsi Papua Tengah (Biro Hukum Sekretariat Daerah Provinsi Papua Tengah)"
+}
