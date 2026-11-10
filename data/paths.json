@@ -1,0 +1,18 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-10",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"perda-2025-002-pembentukan-dan-susunan-perangkat-daerah": "perda/2025/002-pembentukan-dan-susunan-perangkat-daerah",
+"perda-2026-003-pangan-lokal": "perda/2026/003-pangan-lokal",
+"perda-2026-004-pengawasan-sosial": "perda/2026/004-pengawasan-sosial",
+"perda-2026-005-pengelolaan-dan-perlindungan-hutan": "perda/2026/005-pengelolaan-dan-perlindungan-hutan",
+"perda-2026-006-pertambangan-rakyat": "perda/2026/006-pertambangan-rakyat",
+"perda-2026-008-administrasi-kependudukan": "perda/2026/008-administrasi-kependudukan",
+"perda-2026-009-pemberdayaan-lembaga-pelopor-pendidikan-dan-lembaga-pendidikan-swasta": "perda/2026/009-pemberdayaan-lembaga-pelopor-pendidikan-dan-lembaga-pendidikan-swasta",
+"perda-2026-010-pengelolaan-danau": "perda/2026/010-pengelolaan-danau",
+"perda-2026-011-tugas-dan-wewenang-majelis-rakyat-papua": "perda/2026/011-tugas-dan-wewenang-majelis-rakyat-papua",
+"perda-2026-012-pengembangan-pembinaan-dan-pelindungan-bahasa-daerah-dan-sastra-daerah": "perda/2026/012-pengembangan-pembinaan-dan-pelindungan-bahasa-daerah-dan-sastra-daerah",
+"perda-2026-013-peningkatan-dan-perbaikan-gizi-masyarakat": "perda/2026/013-peningkatan-dan-perbaikan-gizi-masyarakat"
+}
+}
